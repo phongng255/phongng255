@@ -108,17 +108,9 @@ fun_fact: "I love turning ideas into code ☕"
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=phongng255&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongng255&theme=tokyo-night&hide_border=true&radius=10" alt="Activity Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=phongng255&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
+  </a>
 
 </div>
 
