@@ -39,7 +39,7 @@ const engineer: DeveloperProfile = {
 };
 ```
 
-- 🔭 **Current Endeavors**: Building modern web platforms including **[serenity-spa](https://github.com/phongng255/serenity-spa)** and interactive full-stack applications.
+- 🔭 **Current Endeavors**: Building developer tooling like **[uccif](https://github.com/phongng255/uccif)** (Claude Code plugin) and **[Proxy5G](https://github.com/phongng255/Proxy5G)** (native macOS menu bar app), plus full-stack web apps.
 - ☁️ **Cloud & Architecture**: Implementing cloud infrastructure and object storage with **AWS (S3)** & modern DevOps workflows.
 - ⚡ **Technical Scope**: Spans from low-level systems programming in **C++** to scalable backend services in **C# / .NET Core** and responsive frontends in **TypeScript & React / Next.js**.
 - 🌱 **Continuous Learning**: Deepening knowledge in Distributed Systems, Microservices Design, and Cloud Native solutions.
@@ -104,16 +104,10 @@ const engineer: DeveloperProfile = {
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=phongng255&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&title_color=61AFEF&icon_color=E5C07B&text_color=ABB2BF&bg_color=1E222A" alt="GitHub Overall Stats" />
-      </td>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongng255&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=61AFEF&text_color=ABB2BF&bg_color=1E222A" alt="Top Languages Used" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/phongng255?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-15-61AFEF?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <img src="https://img.shields.io/github/followers/phongng255?style=for-the-badge&color=98C379&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/phongng255/uccif?style=for-the-badge&color=E5C07B&logo=github&logoColor=white&label=uccif%20Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/phongng255/uccif?style=for-the-badge&color=C678DD&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
 
   <br/>
 
@@ -125,44 +119,12 @@ const engineer: DeveloperProfile = {
 
 ## 🚀 Highlighted Repositories
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/phongng255/serenity-spa">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=phongng255&repo=serenity-spa&theme=tokyonight&hide_border=true&border_radius=10&title_color=61AFEF&bg_color=1E222A" alt="serenity-spa" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/phongng255/my-mockProject-netflix">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=phongng255&repo=my-mockProject-netflix&theme=tokyonight&hide_border=true&border_radius=10&title_color=61AFEF&bg_color=1E222A" alt="Netflix Clone" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/phongng255/s3AWS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=phongng255&repo=s3AWS&theme=tokyonight&hide_border=true&border_radius=10&title_color=61AFEF&bg_color=1E222A" alt="s3AWS" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/phongng255/Quizz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=phongng255&repo=Quizz&theme=tokyonight&hide_border=true&border_radius=10&title_color=61AFEF&bg_color=1E222A" alt="Quizz" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 GitHub Milestones & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phongng255&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</div>
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**uccif**](https://github.com/phongng255/uccif) | Claude Code plugin: task memory, token line, project docs and core rules via hooks | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![stars](https://img.shields.io/github/stars/phongng255/uccif?style=flat-square&color=E5C07B) |
+| [**Proxy5G**](https://github.com/phongng255/Proxy5G) | Native macOS menu bar app routing Mac traffic through iPhone 5G/4G proxy sharing | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![stars](https://img.shields.io/github/stars/phongng255/Proxy5G?style=flat-square&color=E5C07B) |
+| [**my-mockProject-netflix**](https://github.com/phongng255/my-mockProject-netflix) | Netflix clone mock project | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/phongng255/my-mockProject-netflix?style=flat-square&color=E5C07B) |
+| [**s3AWS**](https://github.com/phongng255/s3AWS) | Amazon S3 object storage integration | ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![stars](https://img.shields.io/github/stars/phongng255/s3AWS?style=flat-square&color=E5C07B) |
 
 ---
 
@@ -176,10 +138,6 @@ const engineer: DeveloperProfile = {
   &nbsp;
   <a href="mailto:phongdp255@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br/><br/>
